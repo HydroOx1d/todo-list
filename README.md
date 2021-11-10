@@ -1,4 +1,4 @@
-# analog-trello
+# todo-list
 
 ## Project setup
 ```
